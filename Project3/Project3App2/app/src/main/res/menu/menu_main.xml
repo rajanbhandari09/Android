@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ActivityPlacesOfInterestChicago">
+    <item
+        android:id="@+id/action_chicago"
+        android:orderInCategory="100"
+        android:title="Chicago"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_indianapolis"
+        android:orderInCategory="100"
+        android:title="IndianaPolis"
+        app:showAsAction="never" />
+</menu>

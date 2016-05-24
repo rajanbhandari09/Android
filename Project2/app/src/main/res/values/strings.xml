@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="action_settings">Settings</string>
+    <string name="video_clip">View Video Clip</string>
+    <string name="song_wiki">Song Wikipedia Page</string>
+    <string name="artist_band_wiki">Artist/Band Wikipedia Page</string>
+    <string name="albumthumbnail">AlbumThumbnail</string>
+    <string-array name="songs">
+        <item>Please Forgive Me</item>
+        <item>Numb</item>
+        <item>Nothing Else Matters</item>
+        <item>Hotel California</item>
+        <item>Animals</item>
+        <item>Sorry</item>
+        <item>Misirlou</item>
+    </string-array>
+    <string-array name="artists">
+        <item>Bryan Adams</item>
+        <item>Linkin Park</item>
+        <item>Metallica</item>
+        <item>Eagles</item>
+        <item>Maroon 5</item>
+        <item>Justin Bieber</item>
+        <item>Dick Dale</item>
+    </string-array>
+</resources>

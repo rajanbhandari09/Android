@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.layout.example.project2.MainActivity">
+    <item
+        android:id="@+id/video_clip"
+        android:title="@string/video_clip"
+        />
+    <item
+        android:id="@+id/song_wiki"
+        android:title="@string/song_wiki"
+        />
+    <item
+        android:id="@+id/artist_band_wiki"
+        android:title="@string/artist_band_wiki"
+        />
+</menu>
