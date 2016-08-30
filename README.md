@@ -23,6 +23,6 @@
 ### Project 4 ###
 * The project demonstrates starting a bound service, interprocess communication between 2 apps using IBinder and hosting SQLite database in android
 * The project consists of 2 applications - PlayerClient & AudioServer
-* PlayerClient consists of a single activity and offers a user with a EditText view to enter a song number and buttons to play, pause and stop the song
+* PlayerClient consists of a single activity and offers a user with a EditText view to enter a song number and buttons to play, pause stop the song and retrieve list of all requests made to the server
 * AudioServer consists of a bind service and becomes active when user sends a song request from PlayerClient application
 * AudioServer also hosts a SQLite database which records all user requests as transactions with their timestamps
